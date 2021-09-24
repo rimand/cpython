@@ -1,5 +1,5 @@
 This is Python version 3.11.0 alpha 0
-=====================================
+=======================================
 
 .. image:: https://travis-ci.com/python/cpython.svg?branch=main
    :alt: CPython build status on Travis CI
